@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yang Xu / Homepage"
+title                    : "Yufan Chen / Homepage"
 title_separator          : "-"
-name                     : &name "Yang Xu"
+name                     : &name "Yufan Chen"
 description              : # &description "personal description"
-url                      : https://dyloh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuwanivan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
 
@@ -22,19 +22,19 @@ repository               : # "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "xuyang.png"
-  name             : "Yang Xu"
+  name             : "Yufan Chen"
   pronouns         : # example: "she/her"  
   bio              : "Hashbrowns!!!"
   location         : "Beijing, China"
   employer         : "Peking University"
-  uri              : "https://dyloh.github.io"
+  uri              : "https://yuwanivan.github.io/"
   email            : # "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0003-0419-1684"
+  orcid            : # "https://orcid.org/0009-0003-0419-1684"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
