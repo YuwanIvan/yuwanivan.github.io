@@ -18,7 +18,7 @@ Education
 
 Experience
 ======
-* Internship: Cardinal Operations, Beijing, China
+* sCardinal Operations, Beijing, China
   * Algorithm Intern -- Operations Optimization Track, Jan. -- Sept. 2020
 
 
