@@ -24,7 +24,7 @@ author:
   avatar           : "yuwan.jpg"
   name             : "Yufan Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Hashbrowns!!!"
+  bio              : # "Hashbrowns!!!"
   location         : "Beijing, China"
   employer         : "Peking University"
   uri              : "https://yuwanivan.github.io/"
