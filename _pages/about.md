@@ -7,18 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a second Ph.D. student from [School of Mathematical Sciences](https://math.pku.edu.cn), [Peking University](https://pku.edu.cn). I am very fortunate to be advised by Prof. Minghua Deng. My research interest includes high-dimensional statistics and biostatistics.
+I am a fifth Ph.D. condidate from [Department of Financial Mathematics](https://www.math.pku.edu.cn/finance/), [School of Mathematical Sciences](https://math.pku.edu.cn), [Peking University](https://pku.edu.cn). I am very fortunate to be advised by Prof. Lan Wu. My research interest includes high-dimensional statistics and biostatistics.
 
-Previously, I received a BS in Statistics from Peking University in 2022.
+Previously, I received a BS in Financial Mathematics from Peking University in 2020.
 
-Email: xuyang1014 AT pku Dot edu Dot cn
-
-
-# Preprints
-[Accelerated Gradient Algorithms with Adaptive Subspace Search for Instance-Faster Optimization](https://arxiv.org/abs/2312.03218)
-
-Yuanshi Liu, Hanzhen Zhao, Yang Xu, Pengyun Yue, Cong Fang
-
-[The Implicit Bias of Heterogeneity towards Invariance and Causality](https://arxiv.org/abs/2403.01420)
-
-Yang Xu\*, Yihong Gu\*, Cong Fang
+Email: yufan_chen AT pku Dot edu Dot cn
