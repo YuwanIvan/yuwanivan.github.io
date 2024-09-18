@@ -15,8 +15,7 @@ Working Paper
 * **Deep Partially Linear Model** <br> Zhiqi Bu, Yufan Chen, Weijie J. Su, Lintong Wu and Ruixun Zhang (2023)
   * Under Review. 
 
-* **When Do Models Make Make Money? An Analytical Estimation of Profitability Based
-on Return Predictability** <br> Ruixun Zhang, Yufan Chen, and Lan Wu (2023)
+* **When Do Models Make Money? An Analytical Estimation of Profitability Based on Return Predictability** <br> Ruixun Zhang, Yufan Chen, and Lan Wu (2023)
   * Under Review. 
 
 * **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants** <br> Ruixun Zhang, Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen and Lan Wu (2022)
