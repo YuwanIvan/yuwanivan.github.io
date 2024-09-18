@@ -8,6 +8,12 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "TA"
+    url: /teaching_assistent/
+
+  - title: "Short Bio"
+    url: /cv/
+
   # - title: "Publications"
   #  url: /publications/
 
@@ -23,8 +29,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Short Bio"
-    url: /cv/
+
     
   # - title: "Guide"
   #   url: /markdown/
