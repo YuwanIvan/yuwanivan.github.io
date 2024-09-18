@@ -6,13 +6,20 @@ author_profile: true
 ---
 
   
-Teaching Assistent
+Teaching Assistant
 ======
-* Practice of Fixed Income Securities. 2021 -- 2024 Fall. Instructor: Prof. Lan Wu (2021 -- 2023) and Prof. Xue Cheng (2024)
-* Mathematical Statistics. 2022 -- 2024 Fall. Instructor: Prof. Guannan He
-* Risk Management and Financial Regulation. 2024 Spring. Instructor: Prof. Lan Wu
-* Risk Theory. 2020, 2022, 2023 Fall. Instructor: Prof. Xin Zang (2020) and Prof. Lan Wu (2022, 2023)
-* Advanced Algebra I. 2021 Fall. Instructor: Prof. Wen-Wei Li
+* **Fall 2024: Practice of Fixed Income Securities (固定收益证券实务)** <br> Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Xue Cheng (程雪) et al.
+* **Fall 2024: Mathematical Statistics (数理统计)** <br> Elective for Senior Undergraduate Students. Instructor: Prof. Guannan He (何冠楠).
+* **Spring 2024: Risk Management and Financial Regulation. (风险管理与金融监管)** <br> Core Class for Graduate Students. Instructor: Prof. Lan Wu (吴岚)
+* **Fall 2023: Risk Theory (风险理论)** <br> Elective for Senior Undergraduate Students and Graduate Students. Instructor: Prof. Lan Wu (吴岚).
+* **Fall 2023: Practice of Fixed Income Securities (固定收益证券实务)** <br> Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) et al.
+* **Fall 2023: Mathematical Statistics (数理统计)** <br> Elective for Senior Undergraduate Students. Instructor: Prof. Guannan He (何冠楠).
+* **Fall 2022: Risk Theory (风险理论)** <br> Elective for Senior Undergraduate Students and Graduate Students. Instructor: Prof. Lan Wu (吴岚).
+* **Fall 2022: Practice of Fixed Income Securities (固定收益证券实务)** <br> Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) et al.
+* **Fall 2022: Mathematical Statistics (数理统计)** <br> Elective for Senior Undergraduate Students. Instructor: Prof. Guannan He (何冠楠).
+* **Fall 2021: Exercise Class for Advanced Algebra I (高等代数I习题课)** <br> Core Class for Undergraduate Students. Instructor: Prof. Wen-Wei Li (李文威)
+* **Fall 2021: Practice of Fixed Income Securities (固定收益证券实务)** <br> Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) et al.
+* **Fall 2020: Risk Theory (风险理论)** <br> Elective for Senior Undergraduate Students and Graduate Students. Instructor: Prof. Xin Zang (臧鑫).
 
   
 
