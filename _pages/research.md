@@ -11,6 +11,7 @@ Working Paper
 ==========================
 * **Periodic Trading Activities in Financial Markets: Mean-field Liquidation Game with
 Major-Minor Players**
+
 Yufan Chen, Lan Wu, Renyuan Xu and Ruixun Zhang
   * Preprint. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929201)]
 
