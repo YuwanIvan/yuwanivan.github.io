@@ -16,9 +16,8 @@ Working Paper
   * Under Review. 
 
 * **When Do Models Make Make Money? An Analytical Estimation of Profitability Based
-on Return Predictability** <br> Ruixun Zhang, Yufan Chen, and Lan Wu
-  * Under Review. (2023)
+on Return Predictability** <br> Ruixun Zhang, Yufan Chen, and Lan Wu (2023)
+  * Under Review. 
 
-* **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and
-Determinants** <br> Ruixun Zhang, Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen and Lan Wu
-  * Under Review. Available at SSRN. (2022)
+* **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants** <br> Ruixun Zhang, Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen and Lan Wu (2022)
+  * Under Review. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4191675)] 

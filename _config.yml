@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yufan Chen / Homepage"
 title_separator          : "-"
-name                     : &name "Yufan Chen"
+name                     : &name "Yufan Chen 陈宇凡"
 description              : # &description "personal description"
 url                      : https://yuwanivan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
