@@ -16,11 +16,20 @@ Education
 * B.S. in Economy (Second Major), Peking University, 2020
 
 
-Honors and Awards
+Honors
 ======
-* National Scholarship, 2018 -- 2019
-* The Elite Undergraduate Training Program of Applied Math, 2018 -- 2020
-* 2nd Prize in Chinese Mathematical Olympiad, Dec. 2015
+**Awards**
+* **2022,2021,2018:** Merit Student (Peking University)
+* **2020:** Beijing Outstanding Graduate, Peking University Excellent Graduate
+* **2019:** Merit Student Pacesetter (Peking University)
+* **2015:** 2nd Prize in Chinese Mathematical Olympiad
+
+**Scholarships**
+* **2023:** Jiukun Scholarship (Peking University)
+* **2022:** Huatai Science and Technology Scholarship (Peking University)
+* **2020:** President Scholarship (Peking University)
+* **2019:** National Scholarship
+* **2018:** Yizheng Alumni Scholarship (Peking University)
 
 
 Experience
