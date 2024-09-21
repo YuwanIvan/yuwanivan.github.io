@@ -19,3 +19,7 @@ An online seminar *(in Chinese)* to introduce the basic results in high-dimensio
 
 Course Notes
 =======================
+I arrange some handwriting course notes *(in Chinese)* on my [Zhihu page](https://www.zhihu.com/people/chen-yu-fan-87-98), which includes：
+* [Stochastic Analysis](https://zhuanlan.zhihu.com/p/449169834) taught by Professor Yong Liu
+* [High-dimensional Statistics](https://zhuanlan.zhihu.com/p/369446317) taught by Professor Wei Lin
+* [Statistical Modellings](https://www.zhihu.com/column/c_1387905285860741120) taught by Professor Fang Yao
