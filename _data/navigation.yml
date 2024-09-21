@@ -14,6 +14,9 @@ main:
   - title: "Short Bio"
     url: /cv/
 
+  - title: "Materials"
+    url: /materials/
+
   # - title: "Publications"
   #  url: /publications/
 
