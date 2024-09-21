@@ -23,6 +23,7 @@ Honors
 * **2020:** Beijing Outstanding Graduate, Peking University Excellent Graduate
 * **2019:** Merit Student Pacesetter (Peking University)
 * **2015:** 2nd Prize in Chinese Mathematical Olympiad
+
 ### Scholarships
 * **2023:** Jiukun Scholarship (Peking University)
 * **2022:** Huatai Science and Technology Scholarship (Peking University)
