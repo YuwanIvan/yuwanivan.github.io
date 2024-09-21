@@ -10,7 +10,7 @@ author_profile: true
 Seminar
 =======================
 **Seminar on High-Dimensional Probability, 2021** <br>
-An online seminar (in Chinese) to introduce the basic results in high-dimensional probability quickly, which includes:
+An online seminar *(in Chinese)* to introduce the basic results in high-dimensional probability quickly, which includes:
 * Concentration of Independent Random Variables [[recording](https://www.bilibili.com/video/BV1ey4y187xN/)]
 * Concentration without Independence [[recording](https://www.bilibili.com/video/BV1vv411h7TJ/)]
 * Concentration about Random Matrices [[recording](https://www.bilibili.com/video/BV1qf4y147Q9/)]
