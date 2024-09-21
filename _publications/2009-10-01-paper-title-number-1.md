@@ -4,7 +4,7 @@ collection: working paper
 category: manuscripts
 permalink: /publication/periodicity_paper
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2004-8-18
+date: 2024-8-18
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2408.09505'
