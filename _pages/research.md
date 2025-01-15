@@ -18,11 +18,11 @@ Working Paper
 * **When Do Models Make Money? An Analytical Estimation of Profitability Based on Return Predictability** <br> Ruixun Zhang, Yufan Chen, and Lan Wu (2023)
   * Under Review. 
 
-* **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants** <br> Ruixun Zhang, Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen and Lan Wu (2022)
-  * Under Review. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4191675)] 
-
 
 Journal Publication
 ==========================
+* **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants** <br> Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu and Ruixun Zhang (2022)
+  * Pacific-Basin Finance Journal (2025). To appear. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4191675)] 
+
 * **A Hawkes Process Analysis of High-Frequency Price Endogeneity and Market Efficiency** <br> Jingbin Zhuo, Yufan Chen, Bang Zhou, Baiming Lang, Lan Wu and Ruixun Zhang
   * The European Journal of Finance (2023), 30(9), 949–979. [[Journal](https://doi.org/10.1080/1351847X.2023.2251531)]
