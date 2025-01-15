@@ -21,7 +21,7 @@ Working Paper
 
 Journal Publication
 ==========================
-* **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants** <br> Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu and Ruixun Zhang (2022)
+* **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants** <br> Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu and Ruixun Zhang
   * Pacific-Basin Finance Journal (2025). To appear. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4191675)] 
 
 * **A Hawkes Process Analysis of High-Frequency Price Endogeneity and Market Efficiency** <br> Jingbin Zhuo, Yufan Chen, Bang Zhou, Baiming Lang, Lan Wu and Ruixun Zhang
