@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Financial Mathematics, Peking University, 2025 (expected)
-* B.S. in Financial Mathematics, Peking University, 2020
+* Ph.D. in Statistics (Financial Mathematics), Peking University, 2025 (expected)
+* B.S. in Mathematics and Applied Mathematics, Peking University, 2020
 * B.S. in Economics (Second Major), Peking University, 2020
 
 
