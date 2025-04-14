@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Statistics, Peking University, 2025 (expected)
+* Ph.D. in Financial Mathematics, Peking University, 2025 (expected)
 * B.S. in Financial Mathematics, Peking University, 2020
-* B.S. in Economy (Second Major), Peking University, 2020
+* B.S. in Economics (Second Major), Peking University, 2020
 
 
 Honors
@@ -32,10 +32,10 @@ Honors
 * **2018:** Yizheng Alumni Scholarship (Peking University)
 
 
-Experience
+<!-- Experience
 ======
 * Cardinal Operations, Beijing, China. Jan. -- Sept. 2020
-  * Algorithm Intern -- Operations Optimization Track.
+  * Algorithm Intern -- Operations Optimization Track. -->
 
   
 
