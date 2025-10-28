@@ -21,12 +21,12 @@ repository               : # "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yuwan.jpg"
+  avatar           : "yuwan-new.jpg"
   name             : "Yufan Chen 陈宇凡"
   pronouns         : # example: "she/her"  
-  bio              : # "Hashbrowns!!!"
-  location         : "Beijing, China"
-  employer         : "Peking University"
+  bio              : "Postdoctoral Researcher"
+  location         : "Chicago, Illinois"
+  employer         : "University of Chicago"
   uri              : "https://yuwanivan.github.io/"
   email            : # "none@example.org" 
 
@@ -290,7 +290,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
