@@ -19,4 +19,4 @@ My research interests include:
 * Reinforcement Learning and Deep Learning with Applications in Finance
 * Market Microstructure, High-frequency and Algorithmic Trading
 
-**Email:** yufan_chen AT pku Dot edu Dot cn
+**Email:** yufan.chen AT chicagobooth Dot edu
