@@ -11,11 +11,11 @@ redirect_from:
 
 Academic Employment
 ======
-* **Postdoctoral Principal Researcher**, University of Chicago, Booth School of Business, 2025 - Present
+* **Principal Researcher**, University of Chicago, Booth School of Business, 2025 - Present
 
 Education
 ======
-* **Ph.D. in Statistics (Financial Mathematics)**, Peking University, 2025
+* **Ph.D. in Statistics**, Peking University, 2025
   * Advisor: Prof. Lan Wu
   * School of Mathematical Sciences
 * **B.S. in Mathematics and Applied Mathematics**, Peking University, 2020
