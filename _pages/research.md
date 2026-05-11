@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 Journal Articles
-
 ==========================
+
 * **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants** <br> 
 Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu, and Ruixun Zhang <br>
 *Pacific-Basin Finance Journal* (2025), 90, 102681. [[Journal](https://doi.org/10.1016/j.pacfin.2025.102681)] 
@@ -19,7 +19,6 @@ Jingbin Zhuo, Yufan Chen, Bang Zhou, Baiming Lang, Lan Wu, and Ruixun Zhang <br>
 *The European Journal of Finance* (2023), 30(9), 949–979. [[Journal](https://doi.org/10.1080/1351847X.2023.2251531)]
 
 Working Papers
-
 ==========================
 
 * **A Brownian Inventory Model for Last-Mile Health Distribution in Liberia** <br> 
