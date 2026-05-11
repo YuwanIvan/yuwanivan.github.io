@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 Journal Articles
+
 ==========================
 * **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants** <br> 
 Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu, and Ruixun Zhang <br>
@@ -18,10 +19,15 @@ Jingbin Zhuo, Yufan Chen, Bang Zhou, Baiming Lang, Lan Wu, and Ruixun Zhang <br>
 *The European Journal of Finance* (2023), 30(9), 949–979. [[Journal](https://doi.org/10.1080/1351847X.2023.2251531)]
 
 Working Papers
+
 ==========================
 
 * **A Brownian Inventory Model for Last-Mile Health Distribution in Liberia** <br> 
 Baris Ata, Yufan Chen, and Robert Montgomery <br>
+Working Paper. (2026)
+
+* **Enhance Jump Tests with Time Deformation** <br> 
+Yufan Chen, Xuecan Cui and George J. Jiang <br>
 Working Paper. (2026)
 
 * **Fund Management, Information Abundance, and Attention Allocation** <br> 
@@ -32,7 +38,7 @@ Working Paper. (2026)
 Yuehao Dai, Yufan Chen and Lan Wu <br>
 Under Review. (2026)
 
-* **Periodic Trading Activities in Financial Markets: Mean-field Liquidation Game with Major-–Minor Players** <br> 
+* **Periodic Trading Activities in Financial Markets: Mean-field Liquidation Game with Major--Minor Players** <br> 
 Yufan Chen, Lan Wu, Renyuan Xu, and Ruixun Zhang <br>
 Under Review. (2026) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929201)]
 
