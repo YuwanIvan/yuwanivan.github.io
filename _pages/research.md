@@ -19,9 +19,22 @@ Jingbin Zhuo, Yufan Chen, Bang Zhou, Baiming Lang, Lan Wu, and Ruixun Zhang <br>
 
 Working Papers
 ==========================
-* **Periodic Trading Activities in Financial Markets: Mean-field Liquidation Game with Major–Minor Players** <br> 
+
+* **A Brownian Inventory Model for Last-Mile Health Distribution in Liberia** <br> 
+Baris Ata, Yufan Chen, and Robert Montgomery <br>
+Working Paper. (2026)
+
+* **Fund Management, Information Abundance, and Attention Allocation** <br> 
+Haojun Hu, Yufan Chen, Martin Abrahamson, Katarzyna Cieslak and Fredrik Nilsson <br>
+Working Paper. (2026)
+
+* **The Value of Limit Orders in Execution** <br> 
+Yuehao Dai, Yufan Chen and Lan Wu <br>
+Under Review. (2026)
+
+* **Periodic Trading Activities in Financial Markets: Mean-field Liquidation Game with Major-–Minor Players** <br> 
 Yufan Chen, Lan Wu, Renyuan Xu, and Ruixun Zhang <br>
-Under Review. (2024) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929201)]
+Under Review. (2026) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929201)]
 
 * **When Do Models Make Money? An Analytical Estimation of Profitability Based on Return Predictability** <br> 
 Ruixun Zhang, Yufan Chen, and Lan Wu <br>
