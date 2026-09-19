@@ -9,12 +9,12 @@ main:
     url: /research/
 
   - title: "Teaching"
-    url: /teaching_assistent/
+    url: /teaching/
 
-  - title: "Short Bio"
+  - title: "CV"
     url: /cv/
 
-  - title: "Miscellaneous"
+  - title: "Notes & Resources"
     url: /materials/
 
   # - title: "Publications"
