@@ -10,10 +10,10 @@ author_profile: true
 Publications
 ==========================
 
-_<sup>*</sup> Corresponding author; <sup>†</sup> authors listed alphabetically._
+$^{*}$ Corresponding author; $^{\dagger}$ authors listed alphabetically._
 
 * **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants** <br> 
-Chaoyi Zhao, Yufan Chen<sup>*</sup>, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu, and Ruixun Zhang <br>
+Chaoyi Zhao, Yufan Chen$^{*}$, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu, and Ruixun Zhang <br>
 *Pacific-Basin Finance Journal* (2025), 90, 102681. [[Journal](https://doi.org/10.1016/j.pacfin.2025.102681)] 
 
 * **A Hawkes Process Analysis of High-Frequency Price Endogeneity and Market Efficiency** <br> 
@@ -28,7 +28,7 @@ Yufan Chen, Renyuan Xu, and Baris Ata <br>
 Working Paper. (2026)
 
 * **A Brownian Inventory Model for Last-Mile Health Distribution in Liberia** <br> 
-Baris Ata, Yufan Chen<sup>†</sup>, and Robert Montgomery <br>
+Baris Ata, Yufan Chen$^{\dagger}$, and Robert Montgomery <br>
 Working Paper. (2026)
 
 * **Periodic Trading Activities in Financial Markets: Mean-field Liquidation Game with Major–Minor Players** <br>
@@ -36,7 +36,7 @@ Yufan Chen, Lan Wu, Renyuan Xu, and Ruixun Zhang <br>
 Submitted to *Finance and Stochastics* (2026). [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929201)]
 
 * **The Value of Limit Orders in Execution** <br>
-Yuehao Dai, Yufan Chen<sup>*</sup>, and Lan Wu <br>
+Yuehao Dai, Yufan Chen$^{*}$, and Lan Wu <br>
 Major Revision, *Quantitative Finance* (2026).
 
 * **Enhance Jump Tests with Time Deformation** <br> 
