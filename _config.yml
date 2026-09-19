@@ -12,7 +12,7 @@ title                    : "Yufan Chen / Homepage"
 title_separator          : "-"
 name                     : &name "Yufan Chen 陈宇凡"
 description              : # &description "personal description"
-url                      : https://yuwanivan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuwanivan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
 
@@ -24,11 +24,11 @@ author:
   avatar           : "yuwan-new.jpg"
   name             : "Yufan Chen 陈宇凡"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher"
+  bio              : "Principal Researcher"
   location         : "Chicago, Illinois"
-  employer         : "University of Chicago"
+  employer         : "University of Chicago Booth School of Business"
   uri              : # "https://yuwanivan.github.io/"
-  email            : "yufan.chen AT chicagobooth Dot edu" 
+  email            : "yufan.chen AT chicagobooth DOT edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

@@ -11,11 +11,11 @@ redirect_from:
 
 Academic Employment
 ======
-* **Principal Researcher**, University of Chicago, Booth School of Business, 2025 - Present
+* **Principal Researcher**, University of Chicago, Booth School of Business, Sep 2025 - Present
 
 Education
 ======
-* **Ph.D. in Statistics**, Peking University, 2025
+* **Ph.D. in Statistics (Financial Mathematics)**, Peking University, 2025
   * Advisor: Prof. Lan Wu
   * School of Mathematical Sciences
 * **B.S. in Mathematics and Applied Mathematics**, Peking University, 2020
@@ -49,23 +49,30 @@ Experience
   * Joined a project for scheduling aircraft and cabin crew members at a certain airline company
 
 ### Talks
-* **Periodic Trading Activities in Financial Markets: Mean-field Liquidation Game with Major-Minor Players**
-  * The First INFORMS Conference on Financial Engineering and FinTech, Aug 2024
-  * Summer School Market Microstructure 2024, Jul 2024
+* **RIDE: Reflected Interarrival Diffusion for Events**
+  * 2026 INFORMS Annual Meeting, San Francisco, Nov 2026 (Scheduled)
+* **A Brownian Inventory Model for Last-Mile Health Distribution in Liberia**
+  * 2026 INFORMS Annual Meeting, San Francisco, Nov 2026 (Scheduled)
+  * 2026 INFORMS Healthcare Conference, Raleigh, Jul 2026
+* **Enhance Jump Tests with Time Deformation**
+  * 2026 Conference on Derivatives and Volatility, Chicago Nov 2026 (Scheduled)
+  * The Tenth PKU-NUS Annual International Conference on Quantitative Finance and Economics, Shenzhen, May 2026
+* **News Trading and Fund Management**
+  * The Tenth PKU-NUS Annual International Conference on Quantitative Finance and Economics, Shenzhen, May 2026
+* **Periodic Trading Activities in Financial Markets: Mean-field Liquidation Game with Major–Minor Players**
+  * The First INFORMS Conference on Financial Engineering and FinTech, Hong Kong, Aug 2024
+  * Summer School Market Microstructure 2024, Stockholm, Jul 2024
 * **When Do Models Make Money? An Analytical Estimation of Profitability Based on Return Predictability**
-  * China Finance Review International & China International Risk Forum Joint Conference, Jul 2023
-  * 11th World Congress of Bachelier Finance Society, Jun 2022
+  * China Finance Review International & China International Risk Forum Joint Conference, Shanghai, Jul 2023
+  * 11th World Congress of Bachelier Finance Society, Online, Jun 2022
 * **Statistical Patterns of High-Frequency Data for A-share stocks in Shenzhen Stock Exchange**
-  * The 3rd Young Scholars Workshop on Financial Engineering and Risk Management, Shandong University of Finance and Economics, Jun 2021
+  * The 3rd Young Scholars Workshop on Financial Engineering and Risk Management, Shandong, Jun 2021
 
 ### Services
 * Co-organizer, Workshop on Mathematical Finance and Insurance, Apr 2024
 * Co-organizer, Peking University FICC Alumni Club Annual Meeting, 2024, 2025
 
 ### Skills
-* **Programming:** Python, MATLAB, R, C/C++, STATA
+* **Programming:** Python, MATLAB, R, C/C++, Stata
 * **Optimization:** MOSEK, Gurobi
 * **Language:** Chinese (native), English (proficient), Hokkien (native)
-
-  
-
