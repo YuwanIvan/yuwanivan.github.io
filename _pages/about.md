@@ -11,7 +11,7 @@ Hi! I am a Principal Researcher at the [University of Chicago Booth School of Bu
 
 My research is in applied probability and stochastic modeling, with a focus on financial markets and operations management. I study market microstructure, high-frequency trading, and resource-allocation problems in operations, using tools from stochastic control, econometrics, and machine learning.
 
-I received my Ph.D. in Statistics (Financial Mathematics) from the [School of Mathematical Sciences](https://math.pku.edu.cn) at [Peking University](https://pku.edu.cn) in 2025, advised by Professor [Lan Wu](http://english.math.pku.edu.cn/peoplefaculty/14.html). I was also very fortunate to work with Professors [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun%20/) and [Renyuan Xu](https://renyuanxu.github.io/) on several research projects.
+I received my Ph.D. in Statistics (Financial Mathematics) from the [School of Mathematical Sciences](https://math.pku.edu.cn) at [Peking University](https://pku.edu.cn) in 2025, advised by Professor [Lan Wu](https://math-en.pku.edu.cn/Faculty/Facuity/ALL/old_site_Faculty_ALL_2_14.htm). I was also very fortunate to work with Professors [Ruixun Zhang](https://ruixunzhang.com/) and [Renyuan Xu](https://renyuanxu.github.io/) on several research projects.
 
 I received my Bachelor's degree in Mathematics and Applied Mathematics from the [School of Mathematical Sciences](https://math.pku.edu.cn) and completed a second major in Economics at the [National School of Development](https://nsd.pku.edu.cn), both at Peking University, in 2020.
 
