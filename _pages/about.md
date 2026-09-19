@@ -22,4 +22,6 @@ Research interests:
 * Stochastic models for operations, service systems, and dynamic resource allocation
 * Machine learning and generative methods for stochastic and event-driven systems
 
+You can find my full [CV here](/files/Yufan_Chen_CV.pdf).
+
 **Email:** yufan.chen AT chicagobooth DOT edu
