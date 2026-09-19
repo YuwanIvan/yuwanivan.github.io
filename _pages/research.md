@@ -10,10 +10,10 @@ author_profile: true
 Publications
 ==========================
 
-*<sup>*</sup> Corresponding author; <sup>†</sup> authors listed alphabetically.*
+_<sup>&ast;</sup> Corresponding author; <sup>†</sup> authors listed alphabetically._
 
 * **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants** <br> 
-Chaoyi Zhao, Yufan Chen<sup>*</sup>, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu, and Ruixun Zhang <br>
+Chaoyi Zhao, Yufan Chen<sup>&ast;</sup>, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu, and Ruixun Zhang <br>
 *Pacific-Basin Finance Journal* (2025), 90, 102681. [[Journal](https://doi.org/10.1016/j.pacfin.2025.102681)] 
 
 * **A Hawkes Process Analysis of High-Frequency Price Endogeneity and Market Efficiency** <br> 
@@ -36,7 +36,7 @@ Yufan Chen, Lan Wu, Renyuan Xu, and Ruixun Zhang <br>
 Submitted to *Finance and Stochastics* (2026). [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929201)]
 
 * **The Value of Limit Orders in Execution** <br>
-Yuehao Dai, Yufan Chen<sup>*</sup>, and Lan Wu <br>
+Yuehao Dai, Yufan Chen<sup>&ast;</sup>, and Lan Wu <br>
 Major Revision, *Quantitative Finance* (2026).
 
 * **Enhance Jump Tests with Time Deformation** <br> 
@@ -54,13 +54,10 @@ Research in Progress
 Yufan Chen, Minshuo Chen, and Baris Ata
 
 
-## Book Translation
-
-**Market Liquidity: Theory, Evidence, and Policy**  
-Thierry Foucault, Marco Pagano, and Ailsa Röell
-
-Chinese translation with Xue Cheng, Lan Wu, and Ziyi Xu  
-(translators listed alphabetically).  
+Book Translation
+==========================
+* **Market Liquidity: Theory, Evidence, and Policy**  by Thierry Foucault, Marco Pagano, and Ailsa Röell <br>
+Chinese translation with Xue Cheng, Lan Wu, and Ziyi Xu (translators listed alphabetically). <br>
 Translation manuscript submitted to the publisher, 2026.
 
 Earlier Work
