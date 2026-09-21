@@ -55,7 +55,6 @@ Experience
   * 2026 INFORMS Annual Meeting, San Francisco, Nov 2026 (Scheduled)
   * 2026 INFORMS Healthcare Conference, Raleigh, Jul 2026
 * **Enhance Jump Tests with Time Deformation**
-  * 2026 Conference on Derivatives and Volatility, Chicago Nov 2026 (Scheduled)
   * The Tenth PKU-NUS Annual International Conference on Quantitative Finance and Economics, Shenzhen, May 2026
 * **News Trading and Fund Management**
   * The Tenth PKU-NUS Annual International Conference on Quantitative Finance and Economics, Shenzhen, May 2026
